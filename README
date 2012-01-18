@@ -1,0 +1,3 @@
+# UDP Test
+
+A simple UDP send/recv test to detect problems in the UDP leg of Tracelytics instrumentation reporting.
